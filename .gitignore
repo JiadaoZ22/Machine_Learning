@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+.DS_Store
+**/*.pyc
+**/logs
+
+# Previous Versions
+/Jan_2020_words
+/Dec_2019_words
+/Nov_2019_strokes
+/Oct_2019_strokes
+
+# Original decomposed Datasets
+1 Database
+
+# Results folders
+Data/
+Models/
+
+# Distribution / packaging
+.idea
+.DS_Store
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyBuilder
+target/
+
+
+
